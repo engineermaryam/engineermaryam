@@ -1,16 +1,25 @@
 ### Hi there 👋
 
-<!--
-**engineermaryam/engineermaryam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineering student at UETT. My passion lies in becoming a Software Developer and working on cutting-edge technologies like Blockchain development and Web 3.0. I'm an enthusiastic Fasset Ambassador and actively participate as a Women in Tech organization member.
 
-Here are some ideas to get you started:
+🔭 I’m currently working on:
+- Building projects with React, JavaScript, and React Native.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning:
+- Blockchain development
+- Web3.0 technologies
+
+💬 Ask me about:
+- Software development
+- Web3.0 technologies
+- My experience as a Fasset Ambassador
+
+📫 How to reach me:
+- Email: engrmaryamshahzad@gmail.com
+- LinkedIn: https://www.linkedin.com/in/engrmaryamshahzad/
+
+⚡ Fun fact:
+- I enjoy attending tech conferences and networking with like-minded individuals.
+
+Let's connect and create amazing things together!
+
