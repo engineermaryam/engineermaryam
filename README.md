@@ -28,10 +28,10 @@ and feature development.
 
 ## 🛠️ Tools & Stack
 
-**Analytics:** Mixpanel · Geckoboard · CapFrameX  
-**PM Tooling:** Linear · Notion · Figma · Crowdin  
-**Dev-adjacent:** Python · SQL · Git  
-**Automation:** n8n · Claude MCP integrations  
+**Analytics & Data:** Mixpanel 
+**PM & Project Tooling:** Linear · Notion · Jira · Figma · Crowdin  
+**QA & Testing:** Postman · JMeter  
+**Frameworks:** Scrum · Kanban · SAFe · Agile  
 
 ---
 
@@ -40,7 +40,7 @@ and feature development.
 - 🟡 **Strategic Manager** — Startup Grind Islamabad Chapter
 - 🔷 **Community Ops Manager** — Notion Islamabad Chapter  
 - 💬 **Chapter Co-Lead** — Slack APAC Region  
-- 🧠 **Member** — Product Soch (Pakistan's largest PM community)
+- 🧠 **Member** — Product Soch (Largest PM community)
 
 ---
 
