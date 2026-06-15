@@ -1,25 +1,54 @@
-### Hi there 👋
+# Hi, I'm Maryam Shahzad 👋
 
-I'm a Software Engineering student at UETT. My passion lies in becoming a Software Developer and working on cutting-edge technologies like Blockchain development and Web 3.0. I'm an enthusiastic Fasset Ambassador and actively participate as a Women in Tech organization member.
+Product · Analytics · Operations · Community
 
-🔭 I’m currently working on:
-- Building projects with React, JavaScript, and React Native.
+I work across product strategy, execution, and operations — helping teams 
+define what to build, ship it reliably, and measure what actually matters.
 
-🌱 I’m currently learning:
-- Blockchain development
-- Web3.0 technologies
+Currently shaping product at [Hone](https://hone.gg) — a Windows PC gaming 
+optimization app with 1M+ users — across analytics, release cycles, QA, 
+and feature development.
 
-💬 Ask me about:
-- Software development
-- Web3.0 technologies
-- My experience as a Fasset Ambassador
+---
 
-📫 How to reach me:
-- Email: engrmaryamshahzad@gmail.com
-- LinkedIn: https://www.linkedin.com/in/engrmaryamshahzad/
+## 🔭 What I Work On
 
-⚡ Fun fact:
-- I enjoy attending tech conferences and networking with like-minded individuals.
+- **Product Thinking** — Contributing to feature decisions, writing specs, 
+  defining acceptance criteria, and translating user insights into 
+  actionable product direction
+- **Analytics & Data** — Mixpanel instrumentation from scratch: event design, 
+  funnel analysis, churn investigation, and metric frameworks
+- **Operations & Execution** — Release management, QA coordination (300+ 
+  volunteer testers), Linear ticket workflows, localization via Crowdin 
+  (KO, ES, ZH, AR + more)
+- **Community Leadership** — Building and running product and tech communities 
+  across Pakistan and the APAC region
 
-Let's connect and create amazing things together!
+---
 
+## 🛠️ Tools & Stack
+
+**Analytics:** Mixpanel · Geckoboard · CapFrameX  
+**PM Tooling:** Linear · Notion · Figma · Crowdin  
+**Dev-adjacent:** Python · SQL · Git  
+**Automation:** n8n · Claude MCP integrations  
+
+---
+
+## 🌍 Community Roles
+
+- 🟡 **Strategic Manager** — Startup Grind Islamabad Chapter
+- 🔷 **Community Ops Manager** — Notion Islamabad Chapter  
+- 💬 **Chapter Co-Lead** — Slack APAC Region  
+- 🧠 **Member** — Product Soch (Pakistan's largest PM community)
+
+---
+
+## 📫 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/engrmaryamshahzad/)
+- 📧 engrmaryamshahzad@gmail.com
+
+---
+
+> *"Good product work lives between the strategy deck and the ship date."*
